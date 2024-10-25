@@ -1,0 +1,330 @@
+{
+    "flights": [
+        {
+            "airline": "AirCanada",
+            "departure_time": "2024-11-05T08:00:00",
+            "arrival_time": "2024-11-05T10:00:00",
+            "route": "Toronto to California",
+            "price": 300,
+            "link": "https://www.aircanada.com/home/ca/en/aco/flights"
+        },
+        {
+            "airline": "Delta Airlines",
+            "departure_time": "2024-11-05T14:00:00",
+            "arrival_time": "2024-11-05T16:00:00",
+            "route": "Toronto to California",
+            "price": 350,
+            "link": "https://www.delta.com/"
+        },
+        {
+            "airline": "Ryan Air",
+            "departure_time": "2024-11-06T09:00:00",
+            "arrival_time": "2024-11-06T11:00:00",
+            "route": "Toronto to California",
+            "price": 320,
+            "link": "https://www.ryanair.com/gb/en"
+        },
+        {
+            "airline": "AirCanada",
+            "departure_time": "2024-11-07T12:00:00",
+            "arrival_time": "2024-11-07T14:00:00",
+            "route": "California to Toronto",
+            "price": 300,
+            "link": "https://www.aircanada.com/home/ca/en/aco/flights"
+        },
+        {
+            "airline": "Delta Airlines",
+            "departure_time": "2024-11-08T15:00:00",
+            "arrival_time": "2024-11-08T17:00:00",
+            "route": "California to Toronto",
+            "price": 340,
+            "link": "https://www.delta.com/"
+        },
+        {
+            "airline": "United Airlines",
+            "departure_time": "2024-11-09T11:00:00",
+            "arrival_time": "2024-11-09T13:00:00",
+            "route": "California to Toronto",
+            "price": 310,
+            "link": "https://www.united.com/en/ca/?gad_source=1&gclid=Cj0KCQjw4Oe4BhCcARIsADQ0cslLLscKoyzVAOkodhBjmu2mauaqVDD3A_uat-MBgYJJxjpPdmtLmUoaAjTyEALw_wcB"
+        },
+        {
+            "airline": "Alaskan Air",
+            "departure_time": "2024-11-10T10:00:00",
+            "arrival_time": "2024-11-10T12:00:00",
+            "route": "Toronto to Vancouver",
+            "price": 250,
+            "link": "https://www.alaskaair.com/search/?lid=nav:book-flights&int=AS_NAV_Book_Flights_-prodID:ShoppingBooking"
+        },
+        {
+            "airline": "AirCanada",
+            "departure_time": "2024-11-11T16:00:00",
+            "arrival_time": "2024-11-11T18:00:00",
+            "route": "Toronto to Vancouver",
+            "price": 260,
+            "link": "https://www.aircanada.com/home/ca/en/aco/flights"
+        },
+        {
+            "airline": "Porter Airline",
+            "departure_time": "2024-11-12T08:00:00",
+            "arrival_time": "2024-11-12T10:00:00",
+            "route": "Toronto to Vancouver",
+            "price": 270,
+            "link": "https://www.flyporter.com/en-ca/"
+        },
+        {
+            "airline": "AirCanada",
+            "departure_time": "2024-11-13T09:00:00",
+            "arrival_time": "2024-11-13T11:00:00",
+            "route": "Vancouver to Toronto",
+            "price": 240,
+            "link": "https://www.aircanada.com/home/ca/en/aco/flights"
+        },
+        {
+            "airline": "Porter Airline",
+            "departure_time": "2024-11-14T14:00:00",
+            "arrival_time": "2024-11-14T16:00:00",
+            "route": "Vancouver to Toronto",
+            "price": 230,
+            "link": "https://www.flyporter.com/en-ca/"
+        },
+        {
+            "airline": "United Airlines",
+            "departure_time": "2024-11-05T07:00:00",
+            "arrival_time": "2024-11-05T08:00:00",
+            "route": "Toronto to NYC",
+            "price": 150,
+            "link": "https://www.united.com/en/ca/?gad_source=1&gclid=Cj0KCQjw4Oe4BhCcARIsADQ0cslLLscKoyzVAOkodhBjmu2mauaqVDD3A_uat-MBgYJJxjpPdmtLmUoaAjTyEALw_wcB"
+        },
+        {
+            "airline": "Ryan Air",
+            "departure_time": "2024-11-05T12:00:00",
+            "arrival_time": "2024-11-05T13:00:00",
+            "route": "Toronto to NYC",
+            "price": 170,
+            "link": "https://www.ryanair.com/gb/en"
+        },
+        {
+            "airline": "AirCanada",
+            "departure_time": "2024-11-06T09:30:00",
+            "arrival_time": "2024-11-06T10:30:00",
+            "route": "Toronto to NYC",
+            "price": 160,
+            "link": "https://www.aircanada.com/home/ca/en/aco/flights"
+        },
+        {
+            "airline": "United Airlines",
+            "departure_time": "2024-11-10T08:00:00",
+            "arrival_time": "2024-11-10T09:00:00",
+            "route": "NYC to Toronto",
+            "price": 150,
+            "link": "https://www.united.com/en/ca/?gad_source=1&gclid=Cj0KCQjw4Oe4BhCcARIsADQ0cslLLscKoyzVAOkodhBjmu2mauaqVDD3A_uat-MBgYJJxjpPdmtLmUoaAjTyEALw_wcB"
+        },
+        {
+            "airline": "Ryan Air",
+            "departure_time": "2024-11-11T17:00:00",
+            "arrival_time": "2024-11-11T18:00:00",
+            "route": "NYC to Toronto",
+            "price": 175,
+            "link": "https://www.ryanair.com/gb/en"
+        },
+        {
+            "airline": "Porter Airline",
+            "departure_time": "2024-11-12T11:00:00",
+            "arrival_time": "2024-11-12T12:00:00",
+            "route": "NYC to Toronto",
+            "price": 160,
+            "link": "https://www.flyporter.com/en-ca/"
+        }
+    ],
+    
+    "hotels": {
+        "California": [
+            {
+                "name": "The Fairmont San Francisco",
+                "price_per_night": 180,
+                "location": "Nob Hill",
+                "amenities": ["WiFi", "Breakfast", "Pool"]
+            },
+            {
+                "name": "The Ritz-Carlton, Laguna Niguel",
+                "price_per_night": 220,
+                "location": "Dana Point",
+                "amenities": ["WiFi", "Spa", "Restaurant"]
+            },
+            {
+                "name": "Hollywood Roosevelt",
+                "price_per_night": 250,
+                "location": "Hollywood",
+                "amenities": ["WiFi", "Gym", "Parking"]
+            },
+            {
+                "name": "Shore Hotel",
+                "price_per_night": 210,
+                "location": "Santa Monica",
+                "amenities": ["WiFi", "Breakfast", "Beach Access"]
+            }
+        ],
+        "Vancouver": [
+            {
+                "name": "Pan Pacific Vancouver",
+                "price_per_night": 160,
+                "location": "Downtown",
+                "amenities": ["WiFi", "Breakfast", "Gym"]
+            },
+            {
+                "name": "Fairmont Vancouver Airport",
+                "price_per_night": 190,
+                "location": "Near Airport",
+                "amenities": ["WiFi", "Shuttle Service", "Parking"]
+            },
+            {
+                "name": "The Delta Hotels by Marriott Vancouver Downtown Suites",
+                "price_per_night": 175,
+                "location": "Gastown",
+                "amenities": ["WiFi", "Restaurant", "Bar"]
+            },
+            {
+                "name": "Loden Hotel",
+                "price_per_night": 185,
+                "location": "Coal Harbour",
+                "amenities": ["WiFi", "Breakfast", "Mountain View"]
+            }
+        ],
+        "NYC": [
+            {
+                "name": "The Standard High Line",
+                "price_per_night": 300,
+                "location": "Meatpacking District",
+                "amenities": ["WiFi", "Pool", "Restaurant"]
+            },
+            {
+                "name": "The Langham, New York, Fifth Avenue",
+                "price_per_night": 350,
+                "location": "Midtown",
+                "amenities": ["WiFi", "Spa", "Gym"]
+            },
+            {
+                "name": "The Greenwich Hotel",
+                "price_per_night": 400,
+                "location": "Tribeca",
+                "amenities": ["WiFi", "Pool", "Restaurant"]
+            },
+            {
+                "name": "The NoMad Hotel",
+                "price_per_night": 320,
+                "location": "NoMad",
+                "amenities": ["WiFi", "Breakfast", "Bar"]
+            }
+        ]
+    },
+    
+    "attractions": {
+        "California": {
+            "beaches": {
+                "Santa Monica": {
+                    "description": "Famous for its pier and beautiful sunset views.",
+                    "interests": ["sunbathing", "surfing", "family activities"]
+                },
+                "Laguna Beach": {
+                    "description": "Known for its scenic beauty and art galleries.",
+                    "interests": ["snorkeling", "art tours", "relaxation"]
+                },
+                "Malibu": {
+                    "description": "A beautiful coastal city with stunning beaches.",
+                    "interests": ["beach volleyball", "hiking", "dining"]
+                }
+            },
+            "parks": {
+                "Yosemite National Park": {
+                    "description": "Famous for its waterfalls and natural beauty.",
+                    "interests": ["hiking", "photography", "wildlife watching"]
+                },
+                "Joshua Tree National Park": {
+                    "description": "Known for its unique Joshua trees and rock formations.",
+                    "interests": ["rock climbing", "stargazing", "nature walks"]
+                }
+            }
+        },
+        "Vancouver": {
+            "outdoors": {
+                "Stanley Park": {
+                    "description": "A large urban park with beautiful views.",
+                    "interests": ["biking", "picnicking", "hiking"]
+                },
+                "Grouse Mountain": {
+                    "description": "Offers outdoor activities year-round.",
+                    "interests": ["skiing", "hiking", "zip-lining"]
+                }
+            },
+            "cultural": {
+                "Granville Island": {
+                    "description": "A vibrant area with markets and galleries.",
+                    "interests": ["food tasting", "art exploration", "shopping"]
+                },
+                "Vancouver Aquarium": {
+                    "description": "Home to a variety of marine life.",
+                    "interests": ["marine biology", "family activities", "education"]
+                }
+            }
+        },
+        "NYC": {
+            "historical": {
+                "Statue of Liberty": {
+                    "description": "An iconic symbol of freedom and democracy.",
+                    "interests": ["history", "photography", "sightseeing"]
+                },
+                "Central Park": {
+                    "description": "A vast public park in the middle of Manhattan.",
+                    "interests": ["picnicking", "biking", "jogging"]
+                }
+            },
+            "cultural": {
+                "Metropolitan Museum of Art": {
+                    "description": "One of the largest art museums in the world.",
+                    "interests": ["art appreciation", "tours", "education"]
+                },
+                "Broadway": {
+                    "description": "Famous for its theatrical performances.",
+                    "interests": ["theater", "entertainment", "music"]
+                }
+            }
+        }
+    },
+        "weekly_schedule": {
+    "Monday": {
+        "11:00 AM - 1:00 PM": "Team meeting (Departure)",
+        "1:00 PM - 2:00 PM": "Lunch with a mentor (Departure)"
+    },
+    "Tuesday": {
+        "9:00 AM - 10:00 AM": "Client presentation prep (Departure)",
+        "4:00 PM - 5:00 PM": "Online Check-in with the team (Departure)"
+    },
+    "Wednesday": {
+        "10:00 AM - 11:00 AM": "Team meeting (Departure)",
+        "1:30 PM - 2:30 PM": "One-on-one with manager (Departure)",
+        "5:00 PM - 6:00 PM": "Wrap up work (Departure)"
+    },
+    "Thursday": {
+        "9:00 AM - 12:00 PM": "Flight to San Francisco (Departure)",
+        "1:00 PM - 2:00 PM": "Lunch meeting with partners (Destination)",
+        "3:00 PM - 4:00 PM": "Attend networking event (Destination)"
+    },
+    "Friday": {
+        "9:00 AM - 10:30 AM": "Workshop on project management (Destination)",
+        "2:00 PM - 3:30 PM": "Networking session (Destination)",
+        "6:00 PM - 7:00 PM": "Return flight home (Departure)"
+    },
+    "Saturday": {
+        "10:00 AM - 11:00 AM": "Grocery shopping (Destination)",
+        "1:00 PM - 3:00 PM": "Family gathering (Destination)",
+        "7:00 PM - 8:00 PM": "Dinner with family (Destination)"
+    },
+    "Sunday": {
+        "10:00 AM - 11:00 AM": "Go for a hike (Destination)",
+        "1:00 PM - 2:00 PM": "Lunch at a café (Destination)",
+        "5:00 PM - 6:00 PM": "Call with a mentor (Departure)"
+    }
+}
+}
+    
