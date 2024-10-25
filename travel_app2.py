@@ -36,6 +36,7 @@ def generate_travel_plan(schedule, flights, hotels, departure, destination, trav
     My budget is {budget}, and I want to make sure to arrive in time for important meetings and commitments. Can you give me the itenary in 
     the following fomat: Day 1 >12:00PM:..... Day 2... Make it very elaborate per day so its easy to plan for the user. book slot for user to go to attraction in the city.
     end the itenary once the person is on the flight back to the original city. Dont use "afternoon, moring, evening", use time slots for everything. Specify which bus need to be taken to get around the city.
+    Can you also add the link for flight and hotel booking from the flight and hotel options. The flights run on a periodic basis. DOnt repeat the given input again in the response.
     """
     
     response = chat_session.send_message(message)
