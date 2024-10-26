@@ -34,4 +34,8 @@ Start creating your perfect getaway today by downloading the Memorix app. Embrac
 
 ---
 
+<<<<<<< HEAD
 **Memorix - Your Comfort, Our Expertise**
+=======
+**Memorix - Where Your Journey Begins**
+>>>>>>> b5ce4b3a9f072edbbd6233dedba5417d0f5f5c06
