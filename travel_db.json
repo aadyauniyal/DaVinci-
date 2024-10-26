@@ -242,37 +242,31 @@
     },
         "weekly_schedule": {
     "Monday": {
-        "11:00 AM - 1:00 PM": "Team meeting (Departure)",
-        "1:00 PM - 2:00 PM": "Lunch with a mentor (Departure)"
+        "11:00 AM - 1:00 PM": "Team meeting"
     },
     "Tuesday": {
-        "9:00 AM - 10:00 AM": "Client presentation prep (Departure)",
-        "4:00 PM - 5:00 PM": "Online Check-in with the team (Departure)"
+        "9:00 AM - 10:00 AM": "Client presentation prep ",
+        "4:00 PM - 5:00 PM": "Online Check-in with the team "
     },
     "Wednesday": {
-        "10:00 AM - 11:00 AM": "Team meeting (Departure)",
-        "1:30 PM - 2:30 PM": "One-on-one with manager (Departure)",
-        "5:00 PM - 6:00 PM": "Wrap up work (Departure)"
+        "10:00 AM - 11:00 AM": "Team meeting )",
+        "1:30 PM - 2:30 PM": "One-on-one with manager ",
+        "5:00 PM - 6:00 PM": "Wrap up work "
     },
     "Thursday": {
-        "9:00 AM - 12:00 PM": "Flight to San Francisco (Departure)",
-        "1:00 PM - 2:00 PM": "Lunch meeting with partners (Destination)",
-        "3:00 PM - 4:00 PM": "Attend networking event (Destination)"
+        "1:00 PM - 2:00 PM": "Lunch meeting with partners ",
+        "3:00 PM - 4:00 PM": "Attend networking event "
     },
     "Friday": {
-        "9:00 AM - 10:30 AM": "Workshop on project management (Destination)",
-        "2:00 PM - 3:30 PM": "Networking session (Destination)",
-        "6:00 PM - 7:00 PM": "Return flight home (Departure)"
+        "9:00 AM - 10:30 AM": "Workshop on project management ",
+        "2:00 PM - 3:30 PM": "Networking session "
     },
     "Saturday": {
-        "10:00 AM - 11:00 AM": "Grocery shopping (Destination)",
-        "1:00 PM - 3:00 PM": "Family gathering (Destination)",
-        "7:00 PM - 8:00 PM": "Dinner with family (Destination)"
+        "10:00 AM - 11:00 AM": "Grocery shopping "
     },
     "Sunday": {
-        "10:00 AM - 11:00 AM": "Go for a hike (Destination)",
-        "1:00 PM - 2:00 PM": "Lunch at a café (Destination)",
-        "5:00 PM - 6:00 PM": "Call with a mentor (Departure)"
+        "10:00 AM - 11:00 AM": "Go for a hike ",
+        "5:00 PM - 6:00 PM": "Call with a mentor"
     }
 }
 }
